@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "1.博客介绍",
+      "body": "vue的实践小项目",
+      "id": 1,
+      "tags": [
+        "blog",
+        "vue3",
+        "description"
+      ]
+    },
+    {
+      "title": "2.博客内容",
+      "body": "实现功能：\n基于axios，vue，json—server实现,\n页面路由跳转,\n新建词条,\n修改词条,\n删除此条,\n标签跳转,\n返回首页。",
+      "id": 2,
+      "tags": [
+        "vue3",
+        "content"
+      ]
+    },
+    {
+      "title": "3.未开发内容和方案",
+      "body": "留言系统，账号系统准备新建一个模拟数据库，\n并找一些好看的ui重新布局下，\n准备精进下js让页面有更好的动态效果",
+      "id": 3,
+      "tags": [
+        "vue3",
+        "future"
+      ]
+    }
+  ]
+}
